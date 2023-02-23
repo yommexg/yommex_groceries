@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yommex_groceries/static/css/main.d245b3a5.css",
+    "main.js": "/yommex_groceries/static/js/main.3c50def1.js",
+    "index.html": "/yommex_groceries/index.html",
+    "main.d245b3a5.css.map": "/yommex_groceries/static/css/main.d245b3a5.css.map",
+    "main.3c50def1.js.map": "/yommex_groceries/static/js/main.3c50def1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d245b3a5.css",
+    "static/js/main.3c50def1.js"
+  ]
+}
